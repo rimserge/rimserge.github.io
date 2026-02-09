@@ -66,7 +66,7 @@ const Publications = () => {
           {/* Note for adding publications */}
           <div className="mt-8 p-4 bg-primary/5 rounded-lg border border-dashed border-primary/20">
             <p className="text-sm text-muted-foreground">
-              💡 <span className="font-medium text-foreground">Tip:</span> Add your specific publications by editing 
+              💡 <span className="font-medium text-foreground">Tip:</span> Add your specific publications by editing this 
               <code className="mx-1 px-2 py-0.5 bg-secondary rounded text-xs">src/components/Publications.tsx</code>
             </p>
           </div>
